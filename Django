@@ -1,0 +1,22 @@
+# frontend
+Django
+
+Django is a back-end server side web framwork.
+Django is free,open source and written in Python.
+Django makes it easier to build web pages using Python.
+
+
+Learning By Doing
+step one:
+install and create a Django project
+creat a model where you can create,read,update or delete data
+
+
+Learn how to make HTML Templates and use Django Template Tags to insert data within a HTML document.
+
+Learn how to work with QuerySets to extract,filter,and sort data from the database.
+
+
+
+
+
